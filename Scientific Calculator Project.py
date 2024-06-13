@@ -2,7 +2,6 @@
 Python Miniproject
 GUI Scientific Calculator
 A simple scientific calculator with a GUI front end that supports arithmatic, trigonometric, hyperbolic and logarithmic operations.
-@authors: Adit Agarwal (PES1202202067), Aditya Jain (PES1202202033), Akilan Elango (PES1202202220) 
 
 """
 
